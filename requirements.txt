@@ -1,3 +1,13 @@
 * pandas — для работы с таблицей
 * numpy — для вычислений
 * pytest — для тестов
+
+
+
+
+python3 main.py stats
+python3 main.py training
+python3 main.py sleep
+python3 main.py nutrition
+python3 main.py report
+pytest
